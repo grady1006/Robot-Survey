@@ -17,7 +17,7 @@ Tag的建置僅要求工廠或倉儲的地面需平整，避免移動過程起�
 
 針對上述的介紹，接著說明目前這類技術的AGV公司與相關硬體規格
 
-### -[Amazon Kiva](https://www.amazonrobotics.com/ )
+##[Amazon Kiva](https://www.amazonrobotics.com/ )
 **關於 Kiva 5大重點**
 
 • 客製化Kiva可移動的貨架高度 ( shelves )
@@ -43,7 +43,7 @@ Kiva目前有提供兩種載貨規格(1)貨架長框在60~100cm的可負重約10
 建構場域約：600~6000坪 
 建構AGV成本每台約在100~150萬台幣 
 - - -
-### -[上海快仓智能](http://www.flashhold.com/)
+##[上海快仓智能](http://www.flashhold.com/)
 採用跟Kiva類似的技術 
 
 • 每台AGV 約50萬台幣，包含軟體系統價格。 
@@ -63,7 +63,9 @@ Kiva目前有提供兩種載貨規格(1)貨架長框在60~100cm的可負重約10
 ![AGV1](image/agv5.png)
 
 - - -
-### -[Cainiao菜鳥網絡](https://www.cainiao.com/)
-這是在今年中國智能倉儲管理會議中Cainiao所展示的完整物流管理平台，在1分11秒鐘展示他們強大火力再AGV導入應用上成果，多台協同搬運、避障、排隊的展現。 
+##[Cainiao菜鳥網絡](https://www.cainiao.com/)
+這是在今年中國智能倉儲管理會議中Cainiao所展示的完整物流管理平台，在1分11秒鐘展示他們強大火力再AGV導入應用上成果，多台協同搬運、避障、排隊的展現。
 
-詳細技術細節與規格無提供，這是由阿里巴巴所投資成立的智能物流管理研發從物到人的Total Solution 
+詳細技術細節與規格無提供，這是由阿里巴巴所投資成立的智能物流管理研發從物到人的Total Solution。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wu1RrVdrGFk" frameborder="0" allowfullscreen></iframe>
